@@ -1,0 +1,8 @@
+#ignore ALL .class files
+*.class
+
+#ignore ALL .settings files
+*.settings
+
+#ignore ALL .project files
+*.project
